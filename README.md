@@ -10,7 +10,7 @@ Tout fonctionne directement dans le navigateur grâce au stockage local.
 
 Ajoutez une capture d’écran nommée `capture01.png` à la racine du projet pour qu’elle s’affiche ici :
 
-![Aperçu de l’application](./capture01.png)
+![Aperçu de l’application](./capture01.jpg)
 
 ---
 
